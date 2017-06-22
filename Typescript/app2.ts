@@ -1,4 +1,6 @@
-var app = "alex";
-console.log(app);
+let mensaje = "hola";
 
-console.log(app);
+if(true){
+    let mensaje = "adios";
+}
+console.log(mensaje);
